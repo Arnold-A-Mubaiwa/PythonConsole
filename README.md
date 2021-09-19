@@ -32,6 +32,15 @@ Small programs developed in python
 
 3.Square Footage
 
-    You are given an array that holds the square footage data for houses on a particular street.
-    A new house has just been constructed on that street.
+You are given an array that holds the square footage data for houses on a particular street.
+A new house has just been constructed on that street.
     Modify your program to take the new house value as input, add it to the array, and output the array sorted in ascending order.
+
+Seats in a Theater
+
+You are given an array that represents the occupancy of seats in a movie theater. A seat marked with 1 is occupied, while one marked 0 means the seat is free.
+However, the array is flat and 1-dimensional.
+
+    Transform it into a 2-dimensional array, representing the rows of the seats.
+    Each row in the theater has 5 seats and there are a total of 30 seats.
+    Reshape the array into the corresponding shape and output the row at the given index, which is taken from user input.
