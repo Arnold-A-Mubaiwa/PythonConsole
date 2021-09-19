@@ -1,6 +1,6 @@
 # PythonConsole
-Small programs developed in python
-1.Number of Vaccinations
+Small programs developed in python \n
+1.Number of Vaccinations \n
     We have a report on the number of flu vaccinations in a class of 20 people.
 
     It has the following numbers:
