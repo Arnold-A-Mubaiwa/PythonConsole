@@ -16,4 +16,4 @@ for v in vaccinated.keys():
         totalv+= (vaccinated[v]*3)
     else:
         continue
-print(int(totalv/20) )  
+print(totalv/20 )  
