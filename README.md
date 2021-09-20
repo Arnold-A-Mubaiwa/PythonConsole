@@ -1,4 +1,5 @@
 # PythonConsole
+
 Small programs developed in python
 
 1.Number of Vaccinations
@@ -46,4 +47,17 @@ However, the array is flat and 1-dimensional.
 
     Transform it into a 2-dimensional array, representing the rows of the seats.
     Each row in the theater has 5 seats and there are a total of 30 seats.
-    Reshape the array into the corresponding shape and output the row at the given index, which is taken from user input.
+    Reshape the array into the corresponding shape and output 
+    the row at the given index, which is taken from user input.
+
+5.Multiples of 3 and 5
+
+You are given a task to find all of the whole numbers below 100 that are multiples of both 3 and 5.
+
+    Create an array of numbers below 100 that are multiples of both 3 and 5, and output it
+
+6.Daily Infections
+
+The given array represents the daily number of infections for 30 days.
+
+    Find out how many days exceeded the average number of infections.
