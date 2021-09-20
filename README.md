@@ -71,3 +71,11 @@ numbers of people.
     add an index to it, which should be the name values.
     Then take a name from user input and output the row in
     the DataFrame, which corresponds to that row.
+
+8.Ranking Board
+
+You are given a DataFrame that includes the names and
+ranks of people.
+
+You need to take a rank as input and output the
+corresponding name column from the DataFrame as a Series.
