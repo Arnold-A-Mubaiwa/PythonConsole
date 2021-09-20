@@ -61,3 +61,13 @@ You are given a task to find all of the whole numbers below 100 that are multipl
 The given array represents the daily number of infections for 30 days.
 
     Find out how many days exceeded the average number of infections.
+
+7.Locating Contacts
+
+You are given a dictionary that contains names and
+numbers of people.
+
+    You need to create a DataFrame from the dictionary and
+    add an index to it, which should be the name values.
+    Then take a name from user input and output the row in
+    the DataFrame, which corresponds to that row.
