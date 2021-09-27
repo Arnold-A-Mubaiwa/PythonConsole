@@ -1,4 +1,3 @@
-text = input()
-list = text.split(" ")
-for i in list:
+text = input().split(" ")
+for i in text:
     print(i[1:]+i[0]+'ay', end=' ')   
